@@ -1,0 +1,1 @@
+This is a website created as a part of The Odin Project
